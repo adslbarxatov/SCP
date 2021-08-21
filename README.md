@@ -58,9 +58,19 @@ Note that this Policy is protective, not restrictive. However, failure to become
 
 ![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
 
-:warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of charge, without any payments, explicit and implied. *All rights issues should be resolved by sender before submitting of content. Non-free content will be removed*. Only an attribution of the author is allowed. If no author information is provided, content's sender will be listed as its creator.
+:warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of charge, without any payments, explicit and implied.
 
-:warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам на свободной основе, без каких-либо явных и подразумеваемых платежей. *Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент будет удаляться*. Допускается только указание авторства. Если информация об авторе отсутствует, в качестве создателя контента будет указан пользователь, предоставивший его.
+*All rights issues should be resolved by sender before submitting of content. Non-free content will be removed*.
+
+Only an attribution of the author is allowed. If no author information is provided, content's sender will be listed as its creator.
+
+&nbsp;
+
+:warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам на свободной основе, без каких-либо явных и подразумеваемых платежей.
+
+*Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент будет удаляться*.
+
+Допускается только указание авторства. Если информация об авторе отсутствует, в качестве создателя контента будет указан пользователь, предоставивший его.
 
 #
 
@@ -76,7 +86,7 @@ Clauses of the policy derive one from another and guarantee that:
 
 #
 
-# Changes log | Список изменений
+# Changes log | История изменений
 
 ```
 rev. 1: formalization from 12.03.20
