@@ -50,4 +50,40 @@ Note that this Policy is protective, not restrictive. However, failure to become
 
 :warning: Advertisements in our communities are only allowed in case described in position 2 of [Applications development policy](https://github.com/adslbarxatov/adp), i.e. when a member of community presents information about his own developments. *Untargeted (generic) ads elements may cause permanent ban*.
 
-3. Реклама в наших сообществах допустима только в случае, описанном в позиции 2 [Политики разработки приложений](https://github.com/adslbarxatov/adp), т.е. при представлении участником сообщества информации о собственных разработках. *Нецелевые (общего характера) рекламные элементы могут стать основанием для перманентного бана*.
+:warning: Реклама в наших сообществах допустима только в случае, описанном в позиции 2 [Политики разработки приложений](https://github.com/adslbarxatov/adp), т.е. при представлении участником сообщества информации о собственных разработках. *Нецелевые (общего характера) рекламные элементы могут стать основанием для перманентного бана*.
+
+#
+
+### 4. Content | Контент
+
+![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
+
+:warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of charge, without any payments, explicit and implied. *All rights issues should be resolved by sender before submitting of content. Non-free content will be removed*. Only an attribution of the author is allowed. If no author information is provided, content's sender will be listed as its creator.
+
+:warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам на свободной основе, без каких-либо явных и подразумеваемых платежей. *Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент будет удаляться*. Допускается только указание авторства. Если информация об авторе отсутствует, в качестве создателя контента будет указан пользователь, предоставивший его.
+
+#
+
+# Conclusion | Заключение
+
+Clauses of the policy derive one from another and guarantee that:
+- We will (as much as possible) protect members of our communities from unwanted (unrequested), inappropriate (out of laboratory's aims) and other malicious effects that may be caused by content and activities described by Clauses.
+- We will support constructive discussions and critics as so as thematic content.
+
+Положения политики вытекают одно из другого и гарантируют, что:
+- Мы будем (насколько это возможно) защищать участников наших сообществ от нежелательных (непрошенных), нецелевых (вне целей и задач сообщества) и прочих вредоносных эффектов, которые могут возникнуть в результате действий и появления контента, описанных в Положениях.
+- Мы будем поддерживать конструктивные дискуссии и критику, а также тематический контент.
+
+#
+
+# Changes log | Список изменений
+
+```
+rev. 1: formalization from 12.03.20
+rev. 2: refinements and corrections, pandemic alerts processing from 16.03.20
+rev. 3: minor fixes from 18.03.20
+rev. 4: additions and updates from 29.05.20
+rev. 5: misreadings and indulgences removing, content processing rules addition from 28.10.20
+rev. 6: destructive criticism prohibition and author attribution permission from 4.04.21
+rev. 7: adapation for GitHub platform from 21.08.21
+```
