@@ -24,23 +24,23 @@ Note that this Policy is protective, not restrictive. However, failure to become
 
 # Clauses of the Policy | Положения Политики
 
-### 1. We're against of hurting | Мы против причинения вреда
+### 1. Hurt | Вред
 
 ![9](https://user-images.githubusercontent.com/20893717/130318067-c8318d5b-948a-449a-9f86-69d36f061e7f.png)
 
-:warning: No direct offends, bullying, harm, fakes, disinformation, and other malicious activities allowed in our communities. Destructive criticism (only for criticism, without constructive solution) is also prohibited. *They may cause a permanent ban*. Cases of indirect hurting will be reviewed by the administration separately.
+:warning: We're against of hurting. No direct offends, bullying, harm, fakes, disinformation, and other malicious activities allowed in our communities. Destructive criticism (only for criticism, without constructive solution) is also prohibited. *They may cause a permanent ban*. Cases of indirect hurting will be reviewed by the administration separately.
 
-:warning: В наших сообществах не допускаются прямые оскорбления, издевательства, причинение ущерба, фейки, дезинформация и другие деструктивные действия. Деструктивная критика (только ради критики, без конструктивного решения) тоже запрещена. *Они могут стать основанием для перманентного бана*. Случаи косвенного причинения вреда будут рассматриваться администрацией отдельно.
+:warning: Мы против причинения вреда. В наших сообществах не допускаются прямые оскорбления, издевательства, причинение ущерба, фейки, дезинформация и другие деструктивные действия. Деструктивная критика (только ради критики, без конструктивного решения) тоже запрещена. *Они могут стать основанием для перманентного бана*. Случаи косвенного причинения вреда будут рассматриваться администрацией отдельно.
 
 #
 
-### 2. We don't deal with “sore issues” | Мы не занимаемся «больными вопросами»
+### 2. “Sore issues” | «Больные вопросы»
 
 ![10](https://user-images.githubusercontent.com/20893717/130318124-36bebb62-2510-4268-8c95-694d15ad459a.png)
 
-:warning: Our communities don't allow discussion of social, political, economic and other (even if they are related to the group topics) problems that cause counterproductive forms of activity, primarily those described in position 1 of this Policy. *Forcing such discussions can cause a permanent ban*.
+:warning: We don't deal with “sore issues”. Our communities don't allow discussion of social, political, economic and other (even if they are related to the group topics) problems that cause counterproductive forms of activity, primarily those described in position 1 of this Policy. *Forcing such discussions can cause a permanent ban*.
 
-:warning: Наши сообщества не допускают обсуждения общественных, политических, экономических и прочих (даже если они связаны с тематикой групп) проблем, которые приводят к контрпродуктивным формам активности, в первую очередь – описанным в позиции 1 данной Политики. *Форсирование подобных дискуссий может служить основанием для перманентного бана*.
+:warning: Мы не занимаемся «больными вопросами». Наши сообщества не допускают обсуждения общественных, политических, экономических и прочих (даже если они связаны с тематикой групп) проблем, которые приводят к контрпродуктивным формам активности, в первую очередь – описанным в позиции 1 данной Политики. *Форсирование подобных дискуссий может служить основанием для перманентного бана*.
 
 #
 
