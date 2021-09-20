@@ -1,4 +1,4 @@
-# RD AAOW Free development lab's Social communities policy (RD AAOW FDL SCP) ```rev. 7```
+# RD AAOW Free development lab's Social communities policy (RD AAOW FDL SCP) ```rev. 8```
 
 # Contents | Содержание
 - [Introduction | Введение](README.md#introduction--введение)
@@ -58,7 +58,7 @@ Note that this Policy is protective, not restrictive. However, failure to become
 
 ![1](https://user-images.githubusercontent.com/20893717/130315736-29bbd81d-1b17-4bfb-a7eb-495c34d5de23.png)
 
-:warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of charge, without any payments, explicit and implied.
+:warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of any copyrights and without any payments, explicit and implied.
 
 *All rights issues should be resolved by sender before submitting of content. Non-free content will be removed*.
 
@@ -66,7 +66,7 @@ Only an attribution of the author is allowed. If no author information is provid
 
 &nbsp;
 
-:warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам на свободной основе, без каких-либо явных и подразумеваемых платежей.
+:warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам без любых правовых ограничений и без любых явных и подразумеваемых платежей.
 
 *Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент будет удаляться*.
 
@@ -96,4 +96,5 @@ rev. 4: additions and updates from 29.05.20
 rev. 5: misreadings and indulgences removing, content processing rules addition from 28.10.20
 rev. 6: destructive criticism prohibition and author attribution permission from 4.04.21
 rev. 7: adapation for GitHub platform from 21.08.21
+rev. 8: specifications for copyrights from 20.09.21
 ```
