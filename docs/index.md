@@ -10,13 +10,13 @@
 
 # Introduction ● Введение
 
-This Policy (SCP), its positions and conclusion describes general rules that we follow in all our works. It is ***required to be acquainted and must be respected by all participants of all our communities***.
+This Policy (SCP), its positions and conclusion describes general rules that we follow in all our projects. It is ***required to be acquainted and must be respected by all participants of all our communities***.
 
 Note that this Policy is protective and not restrictive. However, failure to become familiar with the Policy does not deprive the administration of the right to apply it.
 
 &nbsp;
 
-Данная Политика (SCP), её положения и заключение описывают общие правила, которым мы следуем во всех наших работах. Она ***обязательна к ознакомлению и исполнению всеми участниками всех наших сообществ***.
+Данная Политика (SCP), её положения и заключение описывают общие правила, которым мы следуем во всех наших проектах. Она ***обязательна к ознакомлению и исполнению всеми участниками всех наших сообществ***.
 
 Обращаем внимание, что данная Политика носит охранительный, а не ограничительный характер. Тем не менее, неознакомление с Политикой не лишает администрацию права её применения.
 
@@ -28,9 +28,9 @@ Note that this Policy is protective and not restrictive. However, failure to bec
 
 ![9](https://user-images.githubusercontent.com/20893717/130318067-c8318d5b-948a-449a-9f86-69d36f061e7f.png)
 
-:warning: We’re against of hurting. No direct offends, bullying, harm, fakes, disinformation, and other malicious activities allowed in our communities. Destructive criticism (that exists only for criticism, without constructive solution) is also prohibited. *They can be grounds for a permanent ban*. Cases of indirect hurting may be reviewed by the administration separately.
+:warning: We’re against of hurting. No direct offends, bullying, harm, fakes, disinformation, and other malicious activities allowed in our communities. Destructive criticism (that exists only for criticism and doesn’t contain constructive solutions) is also prohibited. *They can be grounds for a permanent ban*. Cases of indirect hurting may be reviewed by the administration separately.
 
-:warning: Мы против причинения вреда. В наших сообществах не допускаются прямые оскорбления, издевательства, причинение ущерба, фейки, дезинформация и другие деструктивные действия. Деструктивная критика (существующий только ради критики, без конструктивного решения) также запрещена. *Они могут стать основанием для перманентного бана*. Случаи косвенного причинения вреда могут быть рассмотрены администрацией отдельно.
+:warning: Мы против причинения вреда. В наших сообществах не допускаются прямые оскорбления, издевательства, причинение ущерба, фейки, дезинформация и другие злонамеренные действия. Деструктивная критика (существующая только ради критики и не содержащая конструктивных решений) также запрещена. *Они могут стать основанием для перманентного бана*. Случаи косвенного причинения вреда могут быть рассмотрены администрацией отдельно.
 
 #
 
@@ -60,7 +60,7 @@ Note that this Policy is protective and not restrictive. However, failure to bec
 
 :warning: No payments and / or restrictions for content are permitted. All texts, pictures, diagrams, datasets and other information objects should be provided from communities to members and from members to communities free of any copyrights and without any payments, explicit and implied.
 
-*All rights issues should be resolved by sender before submitting of content. Non-free content will be removed*.
+*All rights issues should be resolved by sender before submitting of content. Non-free content must be removed*.
 
 Only an attribution of the author is allowed. If no author information is provided, content’s sender must be listed as its creator (with all the ensuing consequences).
 
@@ -68,7 +68,7 @@ Only an attribution of the author is allowed. If no author information is provid
 
 :warning: Никакие платежи и / или ограничения на контент не допускаются. Все тексты, изображения, диаграммы, наборы данных и другие информационные объекты должны быть предоставлены сообществами участникам и участниками сообществам без любых правовых ограничений и без любых явных и подразумеваемых платежей.
 
-*Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент будет удаляться*.
+*Перед отправкой контента отправитель должен решить все правовые проблемы. Несвободный контент должен быть удалён*.
 
 Допускается только указание авторства. Если информация об авторе отсутствует, в качестве создателя контента должен быть указан пользователь, предоставивший его (со всеми вытекающими последствиями).
 
