@@ -77,12 +77,12 @@ Only an attribution of the author is allowed. If no author information is provid
 # Conclusion ● Заключение
 
 Clauses of the policy derive one from another and guarantee that:
-- We will (as much as possible) protect members of our communities from unwanted (unrequested), inappropriate (that aren’t in Laboratory’s aims) and other malicious effects that may be caused by content and activities described by Clauses.
+- We will (as much as possible) protect members of our communities from unwanted (unrequested), inappropriate (that aren’t in community’s aims) and other malicious effects that may be caused by content and activities described by Clauses.
 - We will support constructive discussions and critics.
 - We will support all thematic content.
 
 Положения политики вытекают одно из другого и гарантируют, что:
-- Мы будем (насколько это возможно) защищать участников наших сообществ от нежелательных (незапрошенных), нецелевых (которые не входят в задачи Лаборатории) и прочих вредоносных эффектов, которые могут возникнуть в результате действий и появления контента, описанных в Положениях.
+- Мы будем (насколько это возможно) защищать участников наших сообществ от нежелательных (незапрошенных), нецелевых (которые не входят в задачи сообщества) и прочих вредоносных эффектов, которые могут возникнуть в результате действий и появления контента, описанных в Положениях.
 - Мы будем поддерживать конструктивные дискуссии и критику.
 - Мы будем поддерживать любой тематический контент.
 
