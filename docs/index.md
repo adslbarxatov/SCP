@@ -40,6 +40,8 @@ Note that this Policy is protective and not restrictive. However, failure to bec
 
 *Participation in them or calls for participation may be grounds for a permanent ban*. Cases of indirect hurting may be reviewed by the administration separately.
 
+&nbsp;
+
 :warning: **Мы против причинения вреда**. В наших сообществах не допускаются злонамеренные действия, включая:
 - прямые оскорбления;
 - издевательства;
@@ -64,6 +66,8 @@ that most likely will cause counterproductive forms of activity (primarily those
 
 *Forcing such discussions and activities can be grounds for a permanent ban*.
 
+&nbsp;
+
 :warning: **Мы не занимаемся «больными вопросами»**.
 Наши сообщества не допускают обсуждений, мероприятий и действий социальной, политической, экономической и прочих направленностей,
 которые с наибольшей веростностью приведут к контрпродуктивным формам активности (в первую очередь – к описанным в позиции 1).
@@ -81,6 +85,8 @@ of [Applications development policy](https://adslbarxatov.github.io/ADP), that i
 presents information about his own development.
 
 *Untargeted (generic) ads elements can be grounds for a permanent ban*.
+
+&nbsp;
 
 :warning: **Реклама** в наших сообществах допустима только в случае, описанном в позиции 2
 [Политики разработки приложений](https://adslbarxatov.github.io/ADP), то есть при представлении участником сообщества
@@ -120,6 +126,8 @@ Clauses of the policy derive one from another and guarantee that:
 - We will (as much as possible) protect members of our communities from unwanted (unrequested), inappropriate (that aren’t in community’s aims) and other malicious effects that may be caused by content and activities described by Clauses.
 - We will support constructive discussions and critics.
 - We will support all thematic content.
+
+&nbsp;
 
 Положения политики вытекают одно из другого и гарантируют, что:
 - Мы будем (насколько это возможно) защищать участников наших сообществ от нежелательных (незапрошенных), нецелевых (которые не входят в задачи сообщества) и прочих вредоносных эффектов, которые могут возникнуть в результате действий и появления контента, описанных в Положениях.
