@@ -1,9 +1,9 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPModule) Social communities policy (RD AAOW FDL SCP) ```rev. 10```
 
-# Contents ● Содержание
+# Содержание
 - [Введение](#section-1)
-- [Положения Политики](#section-2)
-- [Заключение](#section-3)
+- [Положения Политики](#section-3)
+- [Заключение](#section-12)
 - [История изменений](https://adslbarxatov.github.io/SCP/changelog)
 - [English version :gb:](https://adslbarxatov.github.io/SCP)
 
@@ -51,7 +51,7 @@
 ### 3. Реклама
 
 :warning: **Реклама** в наших сообществах допустима только в случае, описанном в позиции 2
-[Политики разработки приложений](https://adslbarxatov.github.io/ADP), то есть при представлении участником сообщества
+[Политики разработки приложений](https://adslbarxatov.github.io/ADP/ru), то есть при представлении участником сообщества
 информации о собственных разработках.
 
 *Нецелевые (общего характера) рекламные элементы могут стать основанием для перманентного бана*.
