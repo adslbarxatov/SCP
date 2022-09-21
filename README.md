@@ -2,4 +2,4 @@
 
 Open [Policy page](https://adslbarxatov.github.io/SCP) to read it
 
-Откройте [страницу Политики](https://adslbarxatov.github.io/SCP), чтобы ознакомиться с ней
+Откройте [страницу Политики](https://adslbarxatov.github.io/SCP/ru), чтобы ознакомиться с ней
