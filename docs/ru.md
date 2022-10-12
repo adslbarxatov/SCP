@@ -1,5 +1,9 @@
 # [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Social communities policy (RD AAOW FDL SCP) ```rev. 10```
 
+&nbsp;
+
+
+
 # Содержание
 - [Введение](#section-1)
 - [Положения Политики](#section-3)
