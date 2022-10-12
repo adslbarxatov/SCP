@@ -5,9 +5,11 @@
 - [Clauses of the Policy](#clauses-of-the-policy)
 - [Conclusion](#conclusion)
 - [Changes log](https://adslbarxatov.github.io/SCP/changelog)
-- [Русская версия :ru:](https://adslbarxatov.github.io/SCP/ru)
+- [Русская версия](https://adslbarxatov.github.io/SCP/ru)
 
-#
+&nbsp;
+
+
 
 # Introduction
 
@@ -17,7 +19,9 @@ and in all our projects. It is ***required to be acquainted and must be respecte
 Note that this Policy is protective and not restrictive. However, failure to become familiar with the Policy
 does not deprive the administration of the right to apply it.
 
-#
+&nbsp;
+
+
 
 # Clauses of the Policy
 
@@ -36,8 +40,6 @@ does not deprive the administration of the right to apply it.
 *Participation in them or calls for participation may be grounds for a permanent ban*. Cases of indirect hurting
 may be reviewed by the administration separately.
 
-#
-
 ### 2. “Sore issues”
 
 :warning: **We don’t deal with “sore issues”**.
@@ -46,8 +48,6 @@ that most likely will cause counterproductive forms of activity (primarily those
 
 *Forcing such discussions and activities can be grounds for a permanent ban*.
 
-#
-
 ### 3. Advertisements
 
 :warning: **Advertisements** in our communities are only allowed in case described in position 2
@@ -55,8 +55,6 @@ of [Applications development policy](https://adslbarxatov.github.io/ADP), that i
 presents information about his own development.
 
 *Untargeted (generic) ads elements can be grounds for a permanent ban*.
-
-#
 
 ### 4. Content
 
@@ -69,7 +67,9 @@ free of any copyrights and without any payments, explicit and implied.
 Only an attribution of the author is allowed. If no author information is provided, content’s sender must be listed
 as its creator (with all the ensuing consequences).
 
-#
+&nbsp;
+
+
 
 # Conclusion
 
