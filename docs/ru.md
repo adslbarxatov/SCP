@@ -6,8 +6,8 @@
 
 # Содержание
 - [Введение](#section-1)
-- [Положения Политики](#section-3)
-- [Заключение](#section-12)
+- [Положения Политики](#section-2)
+- [Заключение](#section-7)
 - [История изменений](https://adslbarxatov.github.io/SCP/changelog)
 - [English version](https://adslbarxatov.github.io/SCP)
 
