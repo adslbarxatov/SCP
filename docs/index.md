@@ -17,7 +17,7 @@
 
 # Introduction
 
-This Policy (SCP), its positions and conclusion describes general rules that Lab follows in its functioning
+This Policy (SCP), its positions and conclusion describes general rules that Laboratory follows in its functioning
 and all projects. It is ***required to be acquainted and must be respected by all participants of all Lab communities***.
 
 Note that:
@@ -38,8 +38,8 @@ comments / feeds of any community / channel / hosting managed by the Laboratory 
 :warning: **Lab is against of hurting**. No malicious activities allowed in its communities, including:
 - direct offends;
 - bullying;
-- deliberate harm;
-- aforethought damage;
+- deliberate non-pecuniary harm;
+- deliberate physical damage;
 - direct threats;
 - fakes;
 - disinformation;
