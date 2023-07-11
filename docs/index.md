@@ -9,6 +9,7 @@
 - [Clauses of the Policy](#clauses-of-the-policy)
 - [Conclusion](#conclusion)
 - [Changes log](https://adslbarxatov.github.io/SCP/changelog)
+- [ADP](https://adslbarxatov.github.io/ADP)
 - [Русская версия](https://adslbarxatov.github.io/SCP/ru)
 
 &nbsp;
@@ -52,13 +53,13 @@ may be reviewed by Lab administration separately.
 
 :warning: **Lab doesn’t deal with “sore issues”**.
 Lab communities don’t allow discussions, activities and measures on social, political, economic and other topics,
-that most likely will cause counterproductive forms of activity described in position 1 of this Policy.
+that most likely will cause counterproductive forms of activity described in clause 1 of this Policy.
 
 *Forcing such discussions and activities can be grounds for a permanent ban*.
 
 ### 3. Advertisements
 
-:warning: **Advertisements** in Lab communities are only allowed in case described in position 2
+:warning: **Advertisements** in Lab communities are only allowed in case described in clause 2
 of [Applications development policy](https://adslbarxatov.github.io/ADP), that is when a member of the community
 presents information about his own development.
 
