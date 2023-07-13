@@ -1,2 +1,2 @@
-_Changes for rev 11_:
-- Clarifications and misspelling fixes from 16.04.23
+_Changes for rev 12_:
+- Terms unification and connection with ADP from 13.07.23
