@@ -23,7 +23,7 @@ the Laboratory itself, as well as ***Objects of the Application development poli
 and developments of the Laboratory.
 
 This Policy (SCP), its clauses and conclusion describe the general rules that the Laboratory follows in its work and in the Policy Scope.
-It is ***mandatory for familiarization and execution for all participants in the Policy Scope***.
+It is ***mandatory for familiarization and execution for all members of the Policy Scope***.
 
 Note that:
 1. This Policy is protective and not restrictive. However, failure to become familiar with the Policy
@@ -63,7 +63,7 @@ that most likely will cause counterproductive forms of activity described in cla
 ### 3. Advertisements
 
 :warning: **Advertisements** in Lab communities are only allowed in case described in clause 2
-of the Applications development policy, that is when participants of the Policy Scope submit information
+of the Applications development policy, that is when members of the Policy Scope submit information
 about their own developments or when the Laboratory covers its activities and projects.
 
 *Untargeted (generic) ads elements can be grounds for a permanent ban*.
