@@ -19,7 +19,7 @@
 # Introduction
 
 ***Scope of this Policy*** (hereinafter referred to as ***Policy Scope***) are all communities, channels and hostings managed by the Laboratory,
-the Laboratory itself, as well as ***Objects of the Application development policy***, that is, products (including software), materials
+the Laboratory itself, as well as ***Objects of the Application development policy (ADP)***, that is, products (including software), materials
 and developments of the Laboratory.
 
 This Policy (SCP), its clauses and conclusion describe the general rules that the Laboratory follows in its work and in the Policy Scope.
