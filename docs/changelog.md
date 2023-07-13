@@ -23,3 +23,5 @@
 `rev. 10`: empowerment, refinements and corrections from 11.04.22
 
 `rev. 11`: clarifications and misspelling fixes from 16.04.23
+
+`rev. 12`: Terms unification and connection with ADP from 13.07.23
