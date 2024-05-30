@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Social communities policy (RD AAOW FDL SCP) ```rev. 12```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray/ru) Social communities policy (RD AAOW FDL SCP) ```rev. 12```
 
 &nbsp;
 
