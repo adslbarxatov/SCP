@@ -25,3 +25,5 @@
 `rev. 11`: clarifications and misspelling fixes from 16.04.23
 
 `rev. 12`: Terms unification and connection with ADP from 13.07.23
+
+`rev. 13`: removed some extraneous elements, adjusted time specifications, added more correct requirements (1.08.24)

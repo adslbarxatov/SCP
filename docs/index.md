@@ -10,7 +10,7 @@
 - [Conclusion](#conclusion)
 - [Changes log](https://adslbarxatov.github.io/SCP/changelog)
 - [ADP](https://adslbarxatov.github.io/ADP)
-- [Русская версия](https://adslbarxatov.github.io/SCP/ru)
+- [Версия на русском языке](https://adslbarxatov.github.io/SCP/ru)
 
 &nbsp;
 
