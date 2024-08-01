@@ -1,4 +1,4 @@
-# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Social communities policy (RD AAOW FDL SCP) ```rev. 12```
+# [RD AAOW Free development lab’s](https://adslbarxatov.github.io/DPArray) Social communities policy (RD AAOW FDL SCP) ```rev. 13```
 
 &nbsp;
 
@@ -37,9 +37,9 @@ of this Policy Scope may be limited or terminated at the discretion of the admin
 
 # Clauses of the Policy
 
-### 1. Hurt
+### 1. Lab is against of hurting
 
-:warning: **Lab is against of hurting**. No malicious activities allowed in the Policy Scope, including:
+No malicious activities allowed in the Policy Scope, including:
 - direct offends;
 - bullying;
 - deliberate non-pecuniary harm;
@@ -52,9 +52,8 @@ of this Policy Scope may be limited or terminated at the discretion of the admin
 *Participation in them or calls for such participation may be grounds for a permanent ban*.
 Cases of indirect hurting may be reviewed by Lab administration separately.
 
-### 2. “Sore issues”
+### 2. Lab doesn’t deal with “sore issues”
 
-:warning: **Lab doesn’t deal with “sore issues”**.
 The Policy Scope don’t allow discussions, activities and measures on social, political, economic and other topics,
 that most likely will cause counterproductive forms of activity described in clause 1 of this Policy.
 
@@ -62,23 +61,21 @@ that most likely will cause counterproductive forms of activity described in cla
 
 ### 3. Advertisements
 
-:warning: **Advertisements** in Lab communities are only allowed in case described in clause 2
+Advertisements in Lab communities are only allowed in case described in clause 2
 of the Applications development policy, that is when members of the Policy Scope submit information
 about their own developments or when the Laboratory covers its activities and projects.
 
 *Untargeted (generic) ads elements can be grounds for a permanent ban*.
 
-### 4. Content
+### 4. No payments and / or restrictions for content are permitted
 
-:warning: **No payments and / or restrictions for content are permitted**. All texts, pictures, diagrams, datasets
-and other information objects (including Objects of the Application development policy) must be made available by the Lab
-to members and must be made available by members to the Laboratory
-free of any copyrights and without any payments, explicit and implied.
-
-*All related rights issues should be resolved by sender before submitting of content. Non-free content must be removed from free access*.
+All texts, pictures, diagrams, datasets and other information objects (including Objects of the Application development
+policy) are provided by the Lab to members and privided by members to the Laboratory free of any copyrights and without
+any payments, explicit and implied. *All related rights issues are resolved by sender by himself before submitting of content.
+Non-free content is removed from free access*.
 
 The indication of the content author is allowed. If there is no author information, the user who provided the content
-must be listed as the creator of the content.
+is listed as the creator of the content.
 
 &nbsp;
 
@@ -87,7 +84,7 @@ must be listed as the creator of the content.
 # Conclusion
 
 Clauses of the policy derive one from another and guarantee that:
-- Lab will, as much as possible, protect members of the Policy Scope from unwanted (unrequested), inappropriate
-(that aren’t in community’s aims) and other malicious effects that may be caused by content and activities described by Clauses.
-- Lab will support all constructive discussions and critics.
-- Lab will support all thematic content.
+- Lab, as much as possible, protects members of the Policy Scope from unwanted (unrequested), inappropriate
+(that aren’t in Policy Scope’s aims) and other malicious effects that may be caused by content and activities described by Clauses.
+- Lab supports all constructive discussions and critics.
+- Lab supports all thematic content.
