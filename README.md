@@ -1,7 +1,7 @@
 # RD AAOW Free development lab’s Social communities policy (RD AAOW FDL SCP)
 
-Open the [Policy page](https://adslbarxatov.github.io/SCP) to read it
+:warning: ***This Policy (SCP) has been replaced with the [RD AAOW FDL Integrated operational policy (FDL IOP)](https://adslbarxatov.github.io/IOP)***
 
 #
 
-Откройте [страницу Политики](https://adslbarxatov.github.io/SCP/ru), чтобы ознакомиться с ней
+:warning: ***Данная Политика (SCP) заменена [Интегрированной операционной политикой RD AAOW FDL (FDL IOP)](https://adslbarxatov.github.io/IOP/ru)***
